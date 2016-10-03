@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141015606473",
+    "project_id": "perfect-eon-145203"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141015606473:android:9b2a9065912b67ef",
+        "android_client_info": {
+          "package_name": "cal_602hw2.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141015606473-u7eqlubo8kjbmc79tdrhvs7qpfgrkiq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cal_602hw2.apk",
+            "certificate_hash": "048AD1945AA894D133A2019EB7F2B115A76F441B"
+          }
+        },
+        {
+          "client_id": "141015606473-mmgbd5hqobofgv7hdsfuckrfdvodgtm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhJlorQFpfbx8IuJkxVJF-e7XPIgwc8IE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
